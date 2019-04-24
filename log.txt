@@ -1,0 +1,2 @@
+Fri Dec 14 20:41:35 COT 2018 : Log message 1
+Fri Dec 14 20:41:36 COT 2018 : Log message 2
